@@ -1,1 +1,47 @@
+#include <stdio.h>
+int main(){
+float amount,small_sum=0,medium_sum=0,large_sum=0,grand_total=0;
+int small_num=0,medium_num=0,large_num=0,valid_count=0;
+do{
+printf("Enter expense (0 to stop): ");
+scanf("%f",&amount);
+if(amount==0){
+break;
+}
+if(amount<0){
+printf("Invalid expense!\n");
+continue;
+}
+if(amount<100){
+small_num++;
+small_sum+=amount;
+}
+else if(amount<500){
+medium_num++;
+medium_sum+=amount;
+}
+else{
+large_num++;
+large_sum+=amount;
+}
+valid_count++;
+grand_total+=amount;
+}while(1);
+printf("\n Expense Summary \n");
+printf("Total valid expenses: %d\n",valid_count);
+printf("Total amount: %.2f\n",grand_total);
+printf("Small count: %d\n",small_num);
+printf("Small total: %.2f\n",small_sum);
+printf("Medium count: %d\n",medium_num);
+printf("Medium total: %.2f\n",medium_sum);
+printf("Large count: %d\n",large_num);
+printf("Large total: %.2f\n",large_sum);
+if(valid_count>0){
+printf("Average expense: %.2f\n",grand_total/valid_count);
+}
+else{
+printf("No valid expenses entered.\n");
+}
+return 0;
+}
 
