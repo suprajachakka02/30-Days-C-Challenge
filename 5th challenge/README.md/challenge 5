@@ -1,0 +1,28 @@
+Algorithm:
+1. Start.
+2. Declare variables `choice`, `a`, `b`, `c`, `x`, `r1` and `r2`.
+3. Display the menu containing Linear Equation, Factorial, Quadratic Equation and Exit.
+4. Read the user's choice.
+5. Use a `switch` statement to select the operation.
+6. Case 1: Linear Equation
+- Read `a` and `b`.
+- If `a == 0` and `b == 0`, display "Infinitely many solutions".
+- If `a == 0` and `b != 0`, display "No solution".
+- Otherwise, calculate `x = -b / a` and display the result.
+7. Case 2: Factorial
+- Read the number `n`.
+- If `n < 0` or `n > 12`, display "Invalid input".
+- Otherwise, initialize `fact = 1` and multiply it by each integer from `1` to `n`.
+- Display the factorial.
+8. Case 3: Quadratic Equation
+- Read `a`, `b` and `c`.
+- If `a == 0`, display "Not a quadratic equation".
+- Otherwise, calculate `d = b * b - 4 * a * c`.
+- If `d > 0`, calculate and display two distinct real roots.
+- If `d == 0`, calculate and display equal real roots.
+- If `d < 0`, display "No real roots".
+9. Case 4: Exit
+Display "Thank you for using Equation Solver+".
+10. For any other choice, display "Invalid choice. Try again".
+11. Repeat the menu until the user selects option `4`.
+12. Stop.
