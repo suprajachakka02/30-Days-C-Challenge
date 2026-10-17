@@ -1,9 +1,13 @@
+INPUT OF THE PROGRAM 
+
+<img width="681" height="945" alt="WhatsApp Image 2026-10-17 at 11 19 44 PM" src="https://github.com/user-attachments/assets/03893d57-2954-4ec0-8b96-40fa6cdc9708" />
+
 <img width="656" height="972" alt="WhatsApp Image 2026-10-17 at 11 19 44 PM" src="https://github.com/user-attachments/assets/9e667e82-6664-4537-ab6e-22abf40b96c5" />
-<img width="656" height="972" alt="WhatsApp Image 2026-10-17 at 11 19 44 PM" src="https://github.com/user-attachments/assets/4da160f0-2fcc-4408-86dd-bb95e77b6e6e" />
+
 code of the challenge 5
 
-#include <stdio.h>
-#include <math.h>
+#include<stdio.h>
+#include<math.h>
 
 int main()
 {
