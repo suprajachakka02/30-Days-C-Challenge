@@ -103,3 +103,13 @@ int main()
 
     return 0;
 }
+
+
+
+
+challenge 6 
+input of the program 
+<img width="550" height="912" alt="WhatsApp Image 2026-10-24 at 11 21 54 PM" src="https://github.com/user-attachments/assets/41c97561-4af1-4b69-b0e7-d9e0d8ac28f3" />
+<img width="758" height="955" alt="WhatsApp Image 2026-10-24 at 11 21 53 PM" src="https://github.com/user-attachments/assets/f708ebd9-934e-42bb-9ae4-9e5591add614" />
+<img width="550" height="912" alt="WhatsApp Image 2026-10-24 at 11 21 54 PM" src="https://github.com/user-attachments/assets/986e9822-e601-4397-9a5c-d27cec80f882" />
+
