@@ -1,3 +1,11 @@
+
+
+<img width="550" height="912" alt="WhatsApp Image 2026-10-24 at 11 21 54 PM" src="https://github.com/user-attachments/assets/fa9ce46c-afe1-464e-8b0e-174acf7c55d0" />
+
+
+
+
+<img width="550" height="912" alt="WhatsApp Image 2026-10-24 at 11 21 54 PM" src="https://github.com/user-attachments/assets/fff5770b-e780-4db1-8922-4d3041999e1b" />
 this is the challenge 6 
 algorithm of the code
 Algorithm
